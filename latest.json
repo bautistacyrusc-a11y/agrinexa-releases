@@ -1,0 +1,11 @@
+{
+  "version": "1.99.4",
+  "notes": "AgriNexa 1.99.4 “Cleaner Practice”",
+  "pub_date": "2026-11-14T16:05:05.696Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUazhzalZYTlZBSStQMzc2V3VEOStXd3kzNTFvVTBOSDhjUkNPeitLdGNvU1BGOTY2L0VsSEZ6NzIzNDhWY1ZCUlNBSGU0a2d3Q2trYzNjMU9BLy9TTG5waElVWWVNemcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjcyMjgyCWZpbGU6QWdyaU5leGFfMS45OS40X3g2NC1zZXR1cC5leGUKMUZ2elM1MVRwSEttdENrbnRSNEUxb0ZTTE9YNS9mZDdmbWFCQjhyZXJhVmhxN1dJUk5kRzJPNGtpUW1kZ3dTTDZLNDdmdkdrWmNzVUJVRFlOSXF4QkE9PQo=",
+      "url": "https://raw.githubusercontent.com/bautistacyrusc-a11y/agrinexa-releases/main/AgriNexa_1.99.4_x64-setup.exe"
+    }
+  }
+}
